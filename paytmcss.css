@@ -1,0 +1,159 @@
+.inter-body {
+  background: linear-gradient(119.69deg,#0080ff,#00d5ff 45%);
+}
+.inter-body {
+  padding-top: 50px;
+}
+.navbar-default{
+  background:transparent;
+  background-image:none;
+  border-color:transparent;
+  box-shadow:none;
+}
+
+div.body1 {
+  margin: 0;
+  padding-left: 0;
+  height: 732.7;
+  width: 1353;
+  background: url(frame.png) no-repeat 0 100%;
+}
+
+li.dd {
+  font-size: 20px;
+}
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+.container1 {
+  width: 1170;
+  height: 48.4;
+  margin: 0 auto;
+}
+.container2 {
+  width: 100%;
+}
+.container3 {
+  margin-right: 5%;
+}
+.container3 img {
+    margin-top: 17%;
+}
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+.top-heading {
+	padding-top: 85px;
+	width: 475;
+	height: 624;
+  float: left;
+  width: 45%;
+}
+
+.h11 {
+	padding-bottom: 25px;
+	color: white;
+	line-height: 3px;
+	font-size: 10rem;
+  text-align: left;
+}
+.p11 {
+	line-height: 20px;
+	color: white;
+	font-weight: 150;
+	font-size: 2.3rem;
+  max-width: 80%;
+}
+
+
+button {
+  background-color: #0281f3;
+  border-color: transparent;
+  border-radius: 2px;
+padding: 5px 10px;
+letter-spacing: .8px;
+max-width: 150px;
+}
+button li.dd a {
+  color: white;
+}
+img.navbar-header {
+  margin-left: 25%;
+}
+div.sub-body {
+  background: white;
+  width:100%;
+  height:700;
+}
+.sub-body1 {
+  width: 1140;
+  height: 532;
+  margin: 0 auto;
+}
+.sub-body1 h1 {
+  text-align: center;
+  padding-top: 10rem;
+
+}
+.col-md-4 h3 {
+  padding: 10px;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+.col-md-4 p {
+  text-align: center;
+  padding: 15px;
+}
+section.yo1 {
+  width: 100%;
+  height: 289;
+  background-color: #f0fafc;
+  display: block;
+  margin-bottom: 30px;
+}
+div.floated {
+    float: left;
+    border: 1px solid #f00;
+    width: 200px;
+    height: 100px;
+}
+.yo3, .yo4, .yo5{
+  float: left;
+  width: 32%;
+  padding: 20px;
+}
+.yo4, .yo5 {
+  margin-left: 2%;
+}
+.clearfix1:before,
+.clearfix1:after {
+    content: " "; /* 1 */
+    content: " ";
+    display: table; /* 2 */
+}
+
+.clearfix1:after {
+    clear: both;
+}
+.yo3 ul li {
+  list-style-type: none;
+}
+div.yo3 {
+  padding-left: 5%;
+  border-right: 1.4px solid black;
+}
+.yo5 {
+  background: url('mob4.png') no-repeat;
+}
+.yo4 h2 {
+  padding-bottom: 20px;
+}
+.yo2 h1 {
+  text-align: center;
+}
